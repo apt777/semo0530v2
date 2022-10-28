@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="board_category">
+        <item >팁</item>
+        <item >리뷰</item>
+        <item >자유</item>
+    </string-array>
+
+    <string-array name="report_category">
+        <item >사용자 신고</item>
+        <item >어플 불편사항</item>
+        <item >기타</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_my"
+        android:orderInCategory="100"
+        android:title="@string/drawer_my"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_category"
+        android:orderInCategory="100"
+        android:title="@string/drawer_cate"/>
+    <item
+        android:id="@+id/action_gesi"
+        android:orderInCategory="100"
+        android:title="@string/drawer_gesi"/>
+    <item
+        android:id="@+id/action_sise"
+        android:orderInCategory="100"
+        android:title="@string/drawer_sise"/>
+    <item
+        android:id="@+id/action_repo"
+        android:orderInCategory="100"
+        android:title="@string/drawer_bul"/>
+
+</menu>

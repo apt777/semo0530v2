@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60653853206",
+    "firebase_url": "https://semofarm-fb699-default-rtdb.firebaseio.com/",
+    "project_id": "semofarm-fb699",
+    "storage_bucket": "semofarm-fb699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60653853206:android:5b353f2acf861826193337",
+        "android_client_info": {
+          "package_name": "com.foodproject.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60653853206-ukjat9k50vl4e66t883ej8f81co6nsl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZZiEcZVH9CbOVGfyFeP4gEmiJLWd1hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60653853206-ukjat9k50vl4e66t883ej8f81co6nsl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
